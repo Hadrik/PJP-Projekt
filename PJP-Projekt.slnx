@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Compiler/Compiler.csproj" />
   <Project Path="Runtime/Runtime.csproj" />
 </Solution>
