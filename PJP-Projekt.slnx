@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="Compiler/Compiler.csproj" />
-  <Project Path="Runtime/Runtime.csproj" />
+  <Project Path="Interpreter/Interpreter.csproj" />
 </Solution>
